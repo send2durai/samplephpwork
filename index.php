@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Brazil lost the chance</h1>
+<h1>Waiting for England match</h1>
 
 <?php
 echo "version";
