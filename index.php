@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Devloping PHP Application</h1>
+<h1>Brazil lost the chance</h1>
 
 <?php
-echo "final version";
+echo "version";
 ?>
 
 </body>
